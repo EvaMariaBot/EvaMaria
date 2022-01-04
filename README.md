@@ -56,7 +56,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://github.com/EvaMariaBot/EvaMaria">
+<a href="https://heroku.com/deploy?template=https://github.com/EvaMariaBot/EvaMaria/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
